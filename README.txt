@@ -4,6 +4,7 @@ Version requirement: Python 3.8 or higher
 Packages: pip install -r requirements.txt
 
 Script Execution: python src/process_capture.py
+                  python src/network_capture.py
 Test Execution:   robot tests/
 
 Notes:
