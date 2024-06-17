@@ -1,0 +1,15 @@
+Monitoring of network traffic on a Windows platform 
+
+Tools/ Methods:
+
+For in-depth analysis,
+
+Windows Performance Monitor (PerfMon) - Tracks system performance metrics, including network activity.
+
+Wireshark - A widely-used network protocol analyzer used to capture and analyze packets
+
+
+For automated monitoring,
+
+Pyshark - A Python wrapper for Tshark used to capture and analyze packets in a Python script.
+Scapy - A packet manipulation tool for computer networks
